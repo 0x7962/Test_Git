@@ -18,6 +18,10 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
+
+/*
+*²âÊÔÐÞ¸Ä
+*/
 public class MainActivity extends Activity implements Callback {
 	private FrameLayout frameLayout;
 
